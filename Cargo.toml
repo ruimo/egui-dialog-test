@@ -1,0 +1,13 @@
+[package]
+name = "dialog_demo"
+version = "0.1.0"
+authors = ["Shisei Hanai <ruimo.uno@gmail.com>"]
+license = "MIT OR Apache-2.0"
+edition = "2021"
+rust-version = "1.60"
+publish = false
+
+
+[dependencies]
+eframe = "0.18" # Gives us egui, epi and web+native backends
+
